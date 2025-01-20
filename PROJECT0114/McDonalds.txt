@@ -1,0 +1,3 @@
+201, BigMac,534,72
+202, McNuggest(6),309,59
+203, McChicken,374,49
